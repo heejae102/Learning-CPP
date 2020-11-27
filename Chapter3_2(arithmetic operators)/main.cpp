@@ -16,10 +16,10 @@ int main()
 	int y = 4;
 
 	//나누기 연산에서 이항(x,y) 중 하나라도 실수형이면 결과값이 실수형 
-	cout << x / y << endl;
-	cout << (float)x / y << endl;
-	cout << x / (float)y << endl;
-	cout << (float)x / (float)y << endl;
+	cout << x / y << endl;					//정수 
+	cout << (float)x / y << endl;			//실수 
+	cout << x / (float)y << endl;			//실수 
+	cout << (float)x / (float)y << endl;	//실수 
 
 
 	//정수와 정수 사이의 나누기 연산에서 이항 중 음의 정수가 있는 경우 

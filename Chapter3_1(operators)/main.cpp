@@ -25,7 +25,7 @@ int main()
 
 	//제곱연산이 필요한 경우 
 
-	int x = std::pow(2, 3);
+	int x = std::pow(2, 3); //2의 3제곱 
 	cout << x << endl;
 
 	return 0;
