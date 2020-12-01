@@ -86,12 +86,6 @@ int main()
 	cout << ((14 > 13 || 2 > 1) && (9 > 1)) << endl; 
 	cout << !(2314123 > 2 || 123123 > 2387) << endl; 
 
-
-
-
 	cout << std::noboolalpha;
-
-
-
 	return 0;
 }
