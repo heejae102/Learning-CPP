@@ -71,20 +71,20 @@ int main()
 	bool r2 = v1 || (v2 && v3);
 	bool r3 = (v1 || v2) && v3;
 
-	cout << r1 << endl; 
-	cout << r2 << endl; 
-	cout << r3 << endl; 
+	cout << r1 << endl;		//true 
+	cout << r2 << endl;		//true
+	cout << r3 << endl;		//false 
 
 	cout << std::boolalpha;
 	cout << 1 << endl; 
 	cout << static_cast<bool>(1) << endl;
 	cout << static_cast<bool>(0) << endl << endl;
 
-	cout << ((true && true) || false) << endl;
-	cout << ((false && true) || true) << endl; 
-	cout << ((false && true) || false || true) << endl; 
-	cout << ((14 > 13 || 2 > 1) && (9 > 1)) << endl; 
-	cout << !(2314123 > 2 || 123123 > 2387) << endl; 
+	cout << ((true && true) || false) << endl;				//true
+	cout << ((false && true) || true) << endl;				//true
+	cout << ((false && true) || false || true) << endl;		//true
+	cout << ((14 > 13 || 2 > 1) && (9 > 1)) << endl;		//true
+	cout << !(2314123 > 2 || 123123 > 2387) << endl;		//false 
 
 	cout << std::noboolalpha;
 	return 0;

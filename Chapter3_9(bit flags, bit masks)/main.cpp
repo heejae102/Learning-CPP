@@ -126,7 +126,19 @@ int main()
 
 	unsigned char article_flags = 0;
 
+	article_flags |= option_viewed;
+	//article_flags &= ~(option_viewed);
+	article_flags |= option_liked;
 
+	cout << bitset<8>(article_flags) << endl; 
+
+	article_flags &= ~(option_liked);
+
+	cout << bitset<8>(article_flags) << endl;
+
+	article_flags |= option_deleted;
+
+	cout << bitset<8>(article_flags) << endl; 
 	//2. 아래 두 줄이 왜 동일하게 작동하는지 설명하세요. 
 
 	//myflags &= ~(option4 | option5);

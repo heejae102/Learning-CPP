@@ -27,7 +27,7 @@ int main()
 
 	short s = 2(int); 
 
-	형변환에도 우선순환이 있다. 
+	형변환에도 우선순위가 있다. 
 	4byte보다 작은 자료형(char, short)은 무조건 int로 변환
 	
 	그 다음은 아래의 순서와 같다. 
@@ -51,8 +51,8 @@ int main()
 	//cout << typeid(a).name() << endl; 
 
 	//numeric promotion
-	int j = 2; 
-	char d = j;
+	char j = 2; 
+	int d = j;
 
 	//numeric conversion 
 	int i = 30000;
