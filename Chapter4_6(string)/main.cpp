@@ -40,7 +40,6 @@ int main()
 	//cout << "Your age ? : ";
 	//int age; 
 	//cin >> age; 
-	////std::getline(std::cin, age);
 
 	////방법1) '\n'(백슬래시n, 즉 엔터 탭 스페이스 입력 값)을 만날때까지 32767만큼의 입력값을 무시
 	////32767은 2바이트 int로 표현 가능한 가장 큰 signed 밸류 값. 
