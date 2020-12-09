@@ -17,12 +17,14 @@ struct Rectangle
 
 int main()
 {
+	//구조체도 배열로 사용 가능 
 	cout << sizeof(Rectangle) << endl; 
 
 	Rectangle rect_arr[10];
 
 	cout << sizeof(rect_arr) << endl; 
 
+	//구조체 배열 접근법 
 	rect_arr[0].length = 10;
 	rect_arr[0].width = 20;
 

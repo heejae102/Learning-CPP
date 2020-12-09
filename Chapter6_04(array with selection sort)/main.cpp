@@ -42,6 +42,9 @@ int main()
 
 	printArray(array, length);
 
+	//마지막 인덱스는 정렬할 필요가 없으므로 length - 1 
+	//정렬 시 선택된 인덱스 넘버 뒤의 인덱스부터 검사하므로 i + 1 
+
 	//for (int i = 0; i < length - 1; i++)
 	//{
 	//	int minIdx = i;
