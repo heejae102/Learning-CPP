@@ -67,6 +67,5 @@ int main()
 		cout << dice(mersenne) << endl; 
 	}
 
-
 	return 0; 
 }
