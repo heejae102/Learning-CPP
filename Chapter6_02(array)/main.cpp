@@ -40,9 +40,12 @@ int main()
 
 	//배열에서 변수명(식별자)은 내부적으로 주소로 사용된다.
 	//따라서 주소 연산자를 사용하지 않아도 변수명을 주소로 사용할 수 있다. 
+	
+	//셋 다 동일 
 	cout << students_scores << endl;
 	cout << &students_scores << endl; 
 	cout << &students_scores[0] << endl;
+
 	cout << &students_scores[1] << endl;
 	cout << &students_scores[2] << endl;
 	cout << &students_scores[3] << endl;
