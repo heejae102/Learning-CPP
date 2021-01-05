@@ -171,6 +171,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_07(this pointer, c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_08(class and const)", "Chapter8_08(class and const)\Chapter8_08(class and const).vcxproj", "{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_09(static member variable)", "Chapter8_09(static member variable)\Chapter8_09(static member variable).vcxproj", "{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -795,6 +797,14 @@ Global
 		{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253}.Release|x64.Build.0 = Release|x64
 		{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253}.Release|x86.ActiveCfg = Release|Win32
 		{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253}.Release|x86.Build.0 = Release|Win32
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Debug|x64.ActiveCfg = Debug|x64
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Debug|x64.Build.0 = Debug|x64
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Debug|x86.Build.0 = Debug|Win32
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Release|x64.ActiveCfg = Release|x64
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Release|x64.Build.0 = Release|x64
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Release|x86.ActiveCfg = Release|Win32
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -876,6 +886,7 @@ Global
 		{915DB667-161A-43B8-96F4-4B16C148C021} = {D3B1567D-C1F6-4263-A4E9-14F8AC67AC3B}
 		{0376A99C-2608-47A9-A722-2840E33DFA5E} = {D3B1567D-C1F6-4263-A4E9-14F8AC67AC3B}
 		{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253} = {D3B1567D-C1F6-4263-A4E9-14F8AC67AC3B}
+		{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF} = {D3B1567D-C1F6-4263-A4E9-14F8AC67AC3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0535FDCB-7BBB-4D46-9FEC-70574108DCEE}
