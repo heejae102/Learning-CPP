@@ -54,7 +54,7 @@ int main()
 {
 	Cents cents(10);
 
-	// 형변환 오버로딩 시 아래와 같이 작동하는 것. 
+	// 형변환 오버로딩 시 아래가 동일하게 작동. 
 	//int value = (int)cents;
 	//value = int(cents);
 	//value = static_cast<int>(cents);
