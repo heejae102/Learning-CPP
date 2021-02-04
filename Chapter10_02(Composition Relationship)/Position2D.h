@@ -4,7 +4,7 @@
 class Position2D
 {
 private:
-	int _x; 
+	int _x;
 	int _y;
 
 public:
@@ -27,5 +27,4 @@ public:
 		out << pos2d._x << " " << pos2d._y;
 		return out;
 	}
-
 };
