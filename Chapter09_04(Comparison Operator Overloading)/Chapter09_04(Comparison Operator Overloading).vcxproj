@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CC00848A-F750-4D85-BE19-E6B7812139FF}</ProjectGuid>
-    <RootNamespace>Chapter910convertingconstructor</RootNamespace>
+    <ProjectGuid>{E9DEC8E9-4620-45EE-99C1-A391E93D8A5E}</ProjectGuid>
+    <RootNamespace>Chapter0904ComparisonOperatorOverloading</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

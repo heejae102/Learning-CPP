@@ -183,27 +183,27 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_13(nested types)",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_09", "Chapter_09", "{109F6F6F-9AE7-49B4-B5CF-DF8FAE5B7775}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_01(arithmetic operator overloading)", "Chapter9_01(arithmetic operator overloading)\Chapter9_01(arithmetic operator overloading).vcxproj", "{D1419EC4-4951-4E3A-98C5-D801F22A3F29}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_01(Arithmetic Operator Overloading)", "Chapter09_01(Arithmetic Operator Overloading)\Chapter09_01(Arithmetic Operator Overloading).vcxproj", "{D1419EC4-4951-4E3A-98C5-D801F22A3F29}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_02(in-output operator overloading)", "Chapter9_02(in-output operator overloading)\Chapter9_02(in-output operator overloading).vcxproj", "{8D1DBE2D-23BF-4A75-A05D-92DA3D6181B2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_02(In-Output Operator Overloading)", "Chapter09_02(In-Output Operator Overloading)\Chapter09_02(In-Output Operator Overloading).vcxproj", "{8D1DBE2D-23BF-4A75-A05D-92DA3D6181B2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_03(unary operator overloading)", "Chapter9_03(unary operator overloading)\Chapter9_03(unary operator overloading).vcxproj", "{D13E33D3-838E-43C6-8DB4-8D8ECF642B10}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_03(Unary Operator Overloading)", "Chapter09_03(Unary Operator Overloading)\Chapter09_03(Unary Operator Overloading).vcxproj", "{D13E33D3-838E-43C6-8DB4-8D8ECF642B10}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_04(comparison operator overloading)", "Chapter9_04(comparison operator overloading)\Chapter9_04(comparison operator overloading).vcxproj", "{E9DEC8E9-4620-45EE-99C1-A391E93D8A5E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_04(Comparison Operator Overloading)", "Chapter09_04(Comparison Operator Overloading)\Chapter09_04(Comparison Operator Overloading).vcxproj", "{E9DEC8E9-4620-45EE-99C1-A391E93D8A5E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_05(increment-decrement operator overloading)", "Chapter9_05(increment-decrement operator overloading)\Chapter9_05(increment-decrement operator overloading).vcxproj", "{FEEE7305-434A-49E3-9156-4F15E879E2D4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_05(Increment-Decrement Operator Overloading)", "Chapter09_05(Increment-Decrement Operator Overloading)\Chapter09_05(Increment-Decrement Operator Overloading).vcxproj", "{FEEE7305-434A-49E3-9156-4F15E879E2D4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_06(subscript operator overloading)", "Chapter9_06(subscript operator overloading)\Chapter9_06(subscript operator overloading).vcxproj", "{6AB6F1B3-13BB-4381-81F6-129FDF260431}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_06(Subscript Operator Overloading)", "Chapter09_06(Subscript Operator Overloading)\Chapter09_06(Subscript Operator Overloading).vcxproj", "{6AB6F1B3-13BB-4381-81F6-129FDF260431}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_07(parenthesis operator overloading)", "Chapter9_07(parenthesis operator overloading)\Chapter9_07(parenthesis operator overloading).vcxproj", "{B23571C4-99F0-4A38-8C1F-781CD75E1168}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_07(Parenthesis Operator Overloading)", "Chapter09_07(Parenthesis Operator Overloading)\Chapter09_07(Parenthesis Operator Overloading).vcxproj", "{B23571C4-99F0-4A38-8C1F-781CD75E1168}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_08(typecast overloading)", "Chapter9_08(typecast overloading)\Chapter9_08(typecast overloading).vcxproj", "{E40E19E6-7987-42D7-9B24-E83FE9DAF88B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_08(Typecast Overloading)", "Chapter09_08(Typecast Overloading)\Chapter09_08(Typecast Overloading).vcxproj", "{E40E19E6-7987-42D7-9B24-E83FE9DAF88B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_09(copy constructor, return value optimization)", "Chapter9_09(copy constructor, return value optimization)\Chapter9_09(copy constructor, return value optimization).vcxproj", "{680D4976-2B0D-4C45-9FF6-100B91F136F7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_09(Copy Constructor)", "Chapter09_09(Copy Constructor)\Chapter09_09(Copy Constructor).vcxproj", "{680D4976-2B0D-4C45-9FF6-100B91F136F7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_10(converting constructor)", "Chapter9_10(converting constructor)\Chapter9_10(converting constructor).vcxproj", "{CC00848A-F750-4D85-BE19-E6B7812139FF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_10(Converting Constructor)", "Chapter09_10(Converting Constructor)\Chapter09_10(Converting Constructor).vcxproj", "{CC00848A-F750-4D85-BE19-E6B7812139FF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9_11(deep copy, shallow copy)", "Chapter9_11(deep copy, shallow copy)\Chapter9_11(deep copy, shallow copy).vcxproj", "{3595E29D-A4C7-4ADF-8082-66F6B0830E14}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter09_11(Deep-Shallow Copy)", "Chapter09_11(Deep-Shallow Copy)\Chapter09_11(Deep-Shallow Copy).vcxproj", "{3595E29D-A4C7-4ADF-8082-66F6B0830E14}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_10", "Chapter_10", "{EEF793D1-A7AD-43F3-85C6-A058F6167AC2}"
 EndProject

@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{B23571C4-99F0-4A38-8C1F-781CD75E1168}</ProjectGuid>
-    <RootNamespace>Chapter907parenthesisoperatoroverloading</RootNamespace>
+    <RootNamespace>Chapter0907ParenthesisOperatorOverloading</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

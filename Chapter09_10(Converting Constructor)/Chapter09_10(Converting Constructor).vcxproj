@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3595E29D-A4C7-4ADF-8082-66F6B0830E14}</ProjectGuid>
-    <RootNamespace>Chapter911deepcopyshallowcopy</RootNamespace>
+    <ProjectGuid>{CC00848A-F750-4D85-BE19-E6B7812139FF}</ProjectGuid>
+    <RootNamespace>Chapter0910ConvertingConstructor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

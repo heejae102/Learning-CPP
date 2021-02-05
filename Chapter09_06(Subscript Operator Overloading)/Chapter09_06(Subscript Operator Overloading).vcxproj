@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{8D1DBE2D-23BF-4A75-A05D-92DA3D6181B2}</ProjectGuid>
-    <RootNamespace>Chapter902inoutputoperatoroverloading</RootNamespace>
+    <ProjectGuid>{6AB6F1B3-13BB-4381-81F6-129FDF260431}</ProjectGuid>
+    <RootNamespace>Chapter0906SubscriptOperatorOverloading</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
