@@ -1,17 +1,17 @@
 #include<iostream>
 #include<cassert>
 #include<initializer_list>
-using namespace std; 
+using namespace std;
 
 /*
 
 <멤버 이니셜라이저 리스트>
 
-기본 자료형으로 배열을 만들 때 이니셜라이저 리스트를 
-통해서 값을 편리하게 초기화할 수 있다. 
+기본 자료형으로 배열을 만들 때 이니셜라이저 리스트를
+통해서 값을 편리하게 초기화할 수 있다.
 
-클래스와 같은 사용자 정의 자료형에서도, 
-이니셜라이저 리스트를 통해 생성자나 대입 연산자를 편하게 만들 수 있다.  
+클래스와 같은 사용자 정의 자료형에서도,
+이니셜라이저 리스트를 통해 생성자나 대입 연산자를 편하게 만들 수 있다.
 
 */
 
@@ -63,7 +63,7 @@ public:
 			out << arr._data[i] << " ";
 		}
 
-		out << endl; 
+		out << endl;
 		return out;
 	}
 };
@@ -85,7 +85,7 @@ int main()
 	//IntArray int_array{ 1,2,3,4,5 };
 	IntArray int_array = { 1,2,3,4,5 };
 
-	cout << int_array << endl; 
+	cout << int_array << endl;
 
 	return 0;
 }
