@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{4ADAE562-F9A5-4BA4-9AE9-C9527D1FDEF8}</ProjectGuid>
-    <RootNamespace>Chapter802encapsulationaccessspecifiersaccessfunctions</RootNamespace>
+    <ProjectGuid>{275FF708-F686-4234-A9B2-9C5398E5908D}</ProjectGuid>
+    <RootNamespace>Chapter0810StaticMemberFunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

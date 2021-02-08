@@ -155,31 +155,31 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_16(ellipsis)", "Ch
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_08", "Chapter_08", "{D3B1567D-C1F6-4263-A4E9-14F8AC67AC3B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_01(class)", "Chapter8_01(class)\Chapter8_01(class).vcxproj", "{34AFB9E9-0C32-4A36-8625-5956030FEC78}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_01(Class)", "Chapter08_01(Class)\Chapter08_01(Class).vcxproj", "{34AFB9E9-0C32-4A36-8625-5956030FEC78}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_02(encapsulation, access specifiers, access functions)", "Chapter8_02(encapsulation, access specifiers, access functions)\Chapter8_02(encapsulation, access specifiers, access functions).vcxproj", "{4ADAE562-F9A5-4BA4-9AE9-C9527D1FDEF8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_02(Encapsulation, Access Specifiers, Access Functions)", "Chapter08_02(Encapsulation, Access Specifiers, Access Functions)\Chapter08_02(Encapsulation, Access Specifiers, Access Functions).vcxproj", "{4ADAE562-F9A5-4BA4-9AE9-C9527D1FDEF8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_03(constructors)", "Chapter8_03(constructors)\Chapter8_03(constructors).vcxproj", "{5245F85A-8DED-4C06-9738-5CF794C35B1E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_03(Constructor)", "Chapter08_03(Constructor)\Chapter08_03(Constructor).vcxproj", "{5245F85A-8DED-4C06-9738-5CF794C35B1E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_04(member initializer list)", "Chapter8_04(member initializer list)\Chapter8_04(member initializer list).vcxproj", "{8A07BCB3-BB61-41A8-BDB4-D5E3F08B518B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_04(Member Initializer List)", "Chapter08_04(Member Initializer List)\Chapter08_04(Member Initializer List).vcxproj", "{8A07BCB3-BB61-41A8-BDB4-D5E3F08B518B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_05(delegating constructors)", "Chapter8_05(delegating constructors)\Chapter8_05(delegating constructors).vcxproj", "{F2320705-195C-4CBB-8C51-ACF94911FCA6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_05(Delegating Constructors)", "Chapter08_05(Delegating Constructors)\Chapter08_05(Delegating Constructors).vcxproj", "{F2320705-195C-4CBB-8C51-ACF94911FCA6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_06(destructor)", "Chapter8_06(destructor)\Chapter8_06(destructor).vcxproj", "{915DB667-161A-43B8-96F4-4B16C148C021}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_06(Destructor)", "Chapter08_06(Destructor)\Chapter08_06(Destructor).vcxproj", "{915DB667-161A-43B8-96F4-4B16C148C021}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_07(this pointer, chaining member function)", "Chapter8_07(this pointer, chaining member function)\Chapter8_07(this pointer, chaining member function).vcxproj", "{0376A99C-2608-47A9-A722-2840E33DFA5E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_07(This Pointer and Chaining Member Function)", "Chapter08_07(This Pointer and Chaining Member Function)\Chapter08_07(This Pointer and Chaining Member Function).vcxproj", "{0376A99C-2608-47A9-A722-2840E33DFA5E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_08(class and const)", "Chapter8_08(class and const)\Chapter8_08(class and const).vcxproj", "{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_08(Class and Const)", "Chapter08_08(Class and Const)\Chapter08_08(Class and Const).vcxproj", "{FF21E5D8-A93C-4D5B-97B4-DD58F42B2253}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_09(static member variable)", "Chapter8_09(static member variable)\Chapter8_09(static member variable).vcxproj", "{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_09(Static Member Variable)", "Chapter08_09(Static Member Variable)\Chapter08_09(Static Member Variable).vcxproj", "{A6DCA6C0-BE3C-4A4D-87F6-E6DC1877C5AF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_10(static member function)", "Chapter8_10(static member function)\Chapter8_10(static member function).vcxproj", "{275FF708-F686-4234-A9B2-9C5398E5908D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_10(Static Member Function)", "Chapter08_10(Static Member Function)\Chapter08_10(Static Member Function).vcxproj", "{275FF708-F686-4234-A9B2-9C5398E5908D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_11(friend function and class)", "Chapter8_11(friend function and class)\Chapter8_11(friend function and class).vcxproj", "{EF8AA425-F059-4192-9B73-31404A73040A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_11(Friend Function and Class)", "Chapter08_11(Friend Function and Class)\Chapter08_11(Friend Function and Class).vcxproj", "{EF8AA425-F059-4192-9B73-31404A73040A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_12(anonymous object)", "Chapter8_12(anonymous object)\Chapter8_12(anonymous object).vcxproj", "{14E65C2B-9575-4BFF-8A60-5EC10BDDF3F1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_12(Anonymous Object)", "Chapter08_12(Anonymous Object)\Chapter08_12(Anonymous Object).vcxproj", "{14E65C2B-9575-4BFF-8A60-5EC10BDDF3F1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_13(nested types)", "Chapter8_13(nested types)\Chapter8_13(nested types).vcxproj", "{E67849D7-BA5D-4829-81A3-B3F33ED598DC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter08_13(Nested Types)", "Chapter08_13(Nested Types)\Chapter08_13(Nested Types).vcxproj", "{E67849D7-BA5D-4829-81A3-B3F33ED598DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_09", "Chapter_09", "{109F6F6F-9AE7-49B4-B5CF-DF8FAE5B7775}"
 EndProject

@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{275FF708-F686-4234-A9B2-9C5398E5908D}</ProjectGuid>
-    <RootNamespace>Chapter810staticmemberfunction</RootNamespace>
+    <ProjectGuid>{0376A99C-2608-47A9-A722-2840E33DFA5E}</ProjectGuid>
+    <RootNamespace>Chapter0807ThisPointerandChainingMemberFunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

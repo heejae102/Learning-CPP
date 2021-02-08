@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F2320705-195C-4CBB-8C51-ACF94911FCA6}</ProjectGuid>
-    <RootNamespace>Chapter805delegatingconstructors</RootNamespace>
+    <ProjectGuid>{34AFB9E9-0C32-4A36-8625-5956030FEC78}</ProjectGuid>
+    <RootNamespace>Chapter0801Class</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
