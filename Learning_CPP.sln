@@ -121,37 +121,37 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_22(std_vector)", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_07", "Chapter_07", "{967BF695-7723-4FE8-98D3-6063119A4749}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_01(parameter and aragument)", "Chapter7_01(parameter and aragument)\Chapter7_01(parameter and aragument).vcxproj", "{74124305-2EFD-454B-9F15-CD639D8864FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_01(Parameter and Aragument)", "Chapter07_01(Parameter and Aragument)\Chapter07_01(Parameter and Aragument).vcxproj", "{74124305-2EFD-454B-9F15-CD639D8864FC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_02(call by value)", "Chapter7_02(call by value)\Chapter7_02(call by value).vcxproj", "{A58E5C83-43C1-42ED-9883-5C643A3403E0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_02(Call by Value)", "Chapter07_02(Call by Value)\Chapter07_02(Call by Value).vcxproj", "{A58E5C83-43C1-42ED-9883-5C643A3403E0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_03(call by reference)", "Chapter7_03(call by reference)\Chapter7_03(call by reference).vcxproj", "{1109E364-46A0-4D54-9C03-5487682CCAFC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_03(Call by Reference)", "Chapter07_03(Call by Reference)\Chapter07_03(Call by Reference).vcxproj", "{1109E364-46A0-4D54-9C03-5487682CCAFC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_04(call by address)", "Chapter7_04(call by address)\Chapter7_04(call by address).vcxproj", "{AD090482-71AB-47B8-81FE-FEA4796A09FD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_04(Call by Address)", "Chapter07_04(Call by Address)\Chapter07_04(Call by Address).vcxproj", "{AD090482-71AB-47B8-81FE-FEA4796A09FD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_05(returning values)", "Chapter7_05(returning values)\Chapter7_05(returning values).vcxproj", "{666EF45F-6CDF-41FF-A196-65168B75190E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_05(Returning Values)", "Chapter07_05(Returning Values)\Chapter07_05(Returning Values).vcxproj", "{666EF45F-6CDF-41FF-A196-65168B75190E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_06(inline functions)", "Chapter7_06(inline functions)\Chapter7_06(inline functions).vcxproj", "{DF43F090-4768-40CD-825C-055D2158E591}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_06(Inline Functions)", "Chapter07_06(Inline Functions)\Chapter07_06(Inline Functions).vcxproj", "{DF43F090-4768-40CD-825C-055D2158E591}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_07(function overloading)", "Chapter7_07(function overloading)\Chapter7_07(function overloading).vcxproj", "{9BF87FAD-8C8F-4978-9F1B-FAD8D4EB9B66}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_07(Function Overloading)", "Chapter07_07(Function Overloading)\Chapter07_07(Function Overloading).vcxproj", "{9BF87FAD-8C8F-4978-9F1B-FAD8D4EB9B66}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_08(default parameters)", "Chapter7_08(default parameters)\Chapter7_08(default parameters).vcxproj", "{234EED06-7BC5-4F29-963D-EF94AE4497B4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_08(Default Parameters)", "Chapter07_08(Default Parameters)\Chapter07_08(Default Parameters).vcxproj", "{234EED06-7BC5-4F29-963D-EF94AE4497B4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_09(function pointers)", "Chapter7_09(function pointers)\Chapter7_09(function pointers).vcxproj", "{CEB21917-11FF-4B83-B8EE-12CA135C8D3D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_09(Function Pointers)", "Chapter07_09(Function Pointers)\Chapter07_09(Function Pointers).vcxproj", "{CEB21917-11FF-4B83-B8EE-12CA135C8D3D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_10(stack and heap)", "Chapter7_10(stack and heap)\Chapter7_10(stack and heap).vcxproj", "{6421E3F7-6575-4308-A1E5-18A15094D093}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_10(Stack and Heap)", "Chapter07_10(Stack and Heap)\Chapter07_10(Stack and Heap).vcxproj", "{6421E3F7-6575-4308-A1E5-18A15094D093}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_11(std vector as stack)", "Chapter7_11(std vector as stack)\Chapter7_11(std vector as stack).vcxproj", "{B87AE011-4920-4C12-AFE9-5D1823BA3AAC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_11(Std Vector as Stack)", "Chapter07_11(Std Vector as Stack)\Chapter07_11(Std Vector as Stack).vcxproj", "{B87AE011-4920-4C12-AFE9-5D1823BA3AAC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_12(recursive function call)", "Chapter7_12(recursive function call)\Chapter7_12(recursive function call).vcxproj", "{FCDC40B9-9C3B-4806-BEAB-07D80F98D907}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_12(Recursive Function Call)", "Chapter07_12(Recursive Function Call)\Chapter07_12(Recursive Function Call).vcxproj", "{FCDC40B9-9C3B-4806-BEAB-07D80F98D907}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_13(defensive programming)", "Chapter7_13(defensive programming)\Chapter7_13(defensive programming).vcxproj", "{7DA01D6C-1DE0-4F83-A915-7D9ABAB6B4F7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_13(Defensive Programming)", "Chapter07_13(Defensive Programming)\Chapter07_13(Defensive Programming).vcxproj", "{7DA01D6C-1DE0-4F83-A915-7D9ABAB6B4F7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_14(assert)", "Chapter7_14(assert)\Chapter7_14(assert).vcxproj", "{D2A89309-4131-495F-9A3C-73E63EB70D82}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_14(Assert)", "Chapter07_14(Assert)\Chapter07_14(Assert).vcxproj", "{D2A89309-4131-495F-9A3C-73E63EB70D82}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_15(command line arguments)", "Chapter7_15(command line arguments)\Chapter7_15(command line arguments).vcxproj", "{BAD0242E-AD6A-45E9-AE75-67E6DE9E6D3D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_15(Command Line Arguments)", "Chapter07_15(Command Line Arguments)\Chapter07_15(Command Line Arguments).vcxproj", "{BAD0242E-AD6A-45E9-AE75-67E6DE9E6D3D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_16(ellipsis)", "Chapter7_16(ellipsis)\Chapter7_16(ellipsis).vcxproj", "{86FD3AEC-0D66-4D33-AB38-91863CFB507A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter07_16(Ellipsis)", "Chapter07_16(Ellipsis)\Chapter07_16(Ellipsis).vcxproj", "{86FD3AEC-0D66-4D33-AB38-91863CFB507A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_08", "Chapter_08", "{D3B1567D-C1F6-4263-A4E9-14F8AC67AC3B}"
 EndProject
