@@ -75,49 +75,49 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5_9(cin)", "Chapter5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_06", "Chapter_06", "{A6813C2C-FEA0-41D5-B8B6-BE39D97B9A64}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_01(array)", "Chapter6_01(array)\Chapter6_01(array).vcxproj", "{7E617CCE-A059-4E3E-AD31-DEFEA03A08F9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_01(Array)", "Chapter06_01(Array)\Chapter06_01(Array).vcxproj", "{7E617CCE-A059-4E3E-AD31-DEFEA03A08F9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_02(array)", "Chapter6_02(array)\Chapter6_02(array).vcxproj", "{6D6DE5BF-B835-438B-9122-6FF3097E87C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_02(Array)", "Chapter06_02(Array)\Chapter06_02(Array).vcxproj", "{6D6DE5BF-B835-438B-9122-6FF3097E87C7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_03(array with loop)", "Chapter6_03(array with loop)\Chapter6_03(array with loop).vcxproj", "{E2E482D0-A3DC-4C5F-B472-ABF9B05D16D3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_03(Array with Loop)", "Chapter06_03(Array with Loop)\Chapter06_03(Array with Loop).vcxproj", "{E2E482D0-A3DC-4C5F-B472-ABF9B05D16D3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_04(array with selection sort)", "Chapter6_04(array with selection sort)\Chapter6_04(array with selection sort).vcxproj", "{6DA02007-B2E6-4E2A-ACC2-DD517CF97C78}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_04(Array with Selection Sort)", "Chapter06_04(Array with Selection Sort)\Chapter06_04(Array with Selection Sort).vcxproj", "{6DA02007-B2E6-4E2A-ACC2-DD517CF97C78}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_05(multi-dimensional array)", "Chapter6_05(multi-dimensional array)\Chapter6_05(multi-dimensional array).vcxproj", "{8C362A75-ABB3-40A5-9FED-7C0B4E47BFA3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_05(Multi-Dimensional Array)", "Chapter06_05(Multi-Dimensional Array)\Chapter06_05(Multi-Dimensional Array).vcxproj", "{8C362A75-ABB3-40A5-9FED-7C0B4E47BFA3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_06(char array)", "Chapter6_06(char array)\Chapter6_06(char array).vcxproj", "{C0A35598-80DB-4293-99EE-D290EB362D74}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_06(Char Array)", "Chapter06_06(Char Array)\Chapter06_06(Char Array).vcxproj", "{C0A35598-80DB-4293-99EE-D290EB362D74}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_07(pointer)", "Chapter6_07(pointer)\Chapter6_07(pointer).vcxproj", "{A83514AE-9E5E-48F5-811A-656171EAB04C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_07(Pointer)", "Chapter06_07(Pointer)\Chapter06_07(Pointer).vcxproj", "{A83514AE-9E5E-48F5-811A-656171EAB04C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_09(pointer with array)", "Chapter6_09(pointer with array)\Chapter6_09(pointer with array).vcxproj", "{29308601-1C1F-4568-B5FC-309774991AD8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_09(Pointer with Array)", "Chapter06_09(Pointer with Array)\Chapter06_09(Pointer with Array).vcxproj", "{29308601-1C1F-4568-B5FC-309774991AD8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_08(null pointer)", "Chapter6_08(null pointer)\Chapter6_08(null pointer).vcxproj", "{011B5005-2248-4079-A525-EE5600DC7194}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_08(Null Pointer)", "Chapter06_08(Null Pointer)\Chapter06_08(Null Pointer).vcxproj", "{011B5005-2248-4079-A525-EE5600DC7194}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_10(pointer arithmetic)", "Chapter6_10(pointer arithmetic)\Chapter6_10(pointer arithmetic).vcxproj", "{0BCDBB2D-A58C-4123-97BC-2502F62BBAF0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_10(Pointer Arithmetic)", "Chapter06_10(Pointer Arithmetic)\Chapter06_10(Pointer Arithmetic).vcxproj", "{0BCDBB2D-A58C-4123-97BC-2502F62BBAF0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_11(char symbolic const)", "Chapter6_11(char symbolic const)\Chapter6_11(char symbolic const).vcxproj", "{79B5F981-73A0-4CFF-BAAE-E98B244F7118}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_11(Char Symbolic Const)", "Chapter06_11(Char Symbolic Const)\Chapter06_11(Char Symbolic Const).vcxproj", "{79B5F981-73A0-4CFF-BAAE-E98B244F7118}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_12(dynamic allocation)", "Chapter6_12(dynamic allocation)\Chapter6_12(dynamic allocation).vcxproj", "{62F7FE32-4A11-4C83-9DAA-DAEEBED2A5A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_12(Dynamic Allocation)", "Chapter06_12(Dynamic Allocation)\Chapter06_12(Dynamic Allocation).vcxproj", "{62F7FE32-4A11-4C83-9DAA-DAEEBED2A5A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_13(dynamically allocating arrays)", "Chapter6_13(dynamically allocating arrays)\Chapter6_13(dynamically allocating arrays).vcxproj", "{955322E0-863C-4A3A-A02A-F41493298130}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_13(Dynamically Allocating Arrays)", "Chapter06_13(Dynamically Allocating Arrays)\Chapter06_13(Dynamically Allocating Arrays).vcxproj", "{955322E0-863C-4A3A-A02A-F41493298130}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_14(const pointer)", "Chapter6_14(const pointer)\Chapter6_14(const pointer).vcxproj", "{506F76B2-C1F3-4A13-96CE-94D77887443D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_14(Const Pointer)", "Chapter06_14(Const Pointer)\Chapter06_14(Const Pointer).vcxproj", "{506F76B2-C1F3-4A13-96CE-94D77887443D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_15(reference variable)", "Chapter6_15(reference variable)\Chapter6_15(reference variable).vcxproj", "{23B76288-1A4F-4B84-8D7D-18E6DE66E42A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_15(Reference Variable)", "Chapter06_15(Reference Variable)\Chapter06_15(Reference Variable).vcxproj", "{23B76288-1A4F-4B84-8D7D-18E6DE66E42A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_16(const reference)", "Chapter6_16(const reference)\Chapter6_16(const reference).vcxproj", "{D9D0BFB8-0F6F-4CF9-A5AB-B5EDC07E2550}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_16(Const Reference)", "Chapter06_16(Const Reference)\Chapter06_16(Const Reference).vcxproj", "{D9D0BFB8-0F6F-4CF9-A5AB-B5EDC07E2550}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_17(member selection operators)", "Chapter6_17(member selection operators)\Chapter6_17(member selection operators).vcxproj", "{374CE00A-7926-41C2-B895-4E8F1F75DFF3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_17(Member Selection Operators)", "Chapter06_17(Member Selection Operators)\Chapter06_17(Member Selection Operators).vcxproj", "{374CE00A-7926-41C2-B895-4E8F1F75DFF3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_18(foreach)", "Chapter6_18(foreach)\Chapter6_18(foreach).vcxproj", "{EF922F0F-5914-4C35-9B0A-F93AA74E4854}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_18(foreach)", "Chapter06_18(foreach)\Chapter06_18(foreach).vcxproj", "{EF922F0F-5914-4C35-9B0A-F93AA74E4854}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_19(void pointer)", "Chapter6_19(void pointer)\Chapter6_19(void pointer).vcxproj", "{6D1DB81B-6A87-48C1-BC50-E1EB15EED5F8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_19(Void Pointer)", "Chapter06_19(Void Pointer)\Chapter06_19(Void Pointer).vcxproj", "{6D1DB81B-6A87-48C1-BC50-E1EB15EED5F8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_20(dynamic multi-dimentional array)", "Chapter6_20(dynamic multi-dimentional array)\Chapter6_20(dynamic multi-dimentional array).vcxproj", "{6D7BB1EE-1158-4686-8033-DA90A88B118B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_20(Dynamic Multi-Dimensional Array)", "Chapter06_20(Dynamic Multi-Dimensional Array)\Chapter06_20(Dynamic Multi-Dimensional Array).vcxproj", "{6D7BB1EE-1158-4686-8033-DA90A88B118B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_21(std_aray)", "Chapter6_21(std_aray)\Chapter6_21(std_aray).vcxproj", "{32F219A8-DA3E-4525-AFF3-EF78933ED672}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_21(std_array)", "Chapter06_21(std_array)\Chapter06_21(std_array).vcxproj", "{32F219A8-DA3E-4525-AFF3-EF78933ED672}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_22(std_vector)", "Chapter6_22(std_vector)\Chapter6_22(std_vector).vcxproj", "{347AA913-6A52-46CD-B4E3-379FDF72C445}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter06_22(std_vector)", "Chapter06_22(std_vector)\Chapter06_22(std_vector).vcxproj", "{347AA913-6A52-46CD-B4E3-379FDF72C445}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_07", "Chapter_07", "{967BF695-7723-4FE8-98D3-6063119A4749}"
 EndProject
