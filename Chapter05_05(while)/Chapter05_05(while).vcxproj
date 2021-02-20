@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{3FDA9512-414E-4A28-97E5-D6DDAD5F0028}</ProjectGuid>
-    <RootNamespace>Chapter55while</RootNamespace>
+    <RootNamespace>Chapter0505while</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
