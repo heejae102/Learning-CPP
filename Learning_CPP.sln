@@ -27,25 +27,25 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_8(bitwise operator
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_9(bit flags, bit masks)", "Chapter3_9(bit flags, bit masks)\Chapter3_9(bit flags, bit masks).vcxproj", "{23B4B831-8F59-457E-9CEB-E0A6F918F6FC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_1(local variable)", "Chapter4_1(local variable)\Chapter4_1(local variable).vcxproj", "{18AC0AA2-2917-47CD-A882-9D78320F97A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_01(Local Variable)", "Chapter04_01(Local Variable)\Chapter04_01(Local Variable).vcxproj", "{18AC0AA2-2917-47CD-A882-9D78320F97A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_2(global_static variable, internal_external linkage)", "Chapter4_2(global_static variable, internal_external linkage)\Chapter4_2(global_static variable, internal_external linkage).vcxproj", "{092E639B-6C07-4CE9-8D6B-400718B1FE2F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_02(Global-Static Variable, Internal-External Linkage)", "Chapter04_02(Global-Static Variable, Internal-External Linkage)\Chapter04_02(Global-Static Variable, Internal-External Linkage).vcxproj", "{092E639B-6C07-4CE9-8D6B-400718B1FE2F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_3(using and ambiguity)", "Chapter4_3(using and ambiguity)\Chapter4_3(using and ambiguity).vcxproj", "{1654FB8A-E6C8-44A2-A0C2-DF6BB68A5F76}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_03(Using and Ambiguity)", "Chapter04_03(Using and Ambiguity)\Chapter04_03(Using and Ambiguity).vcxproj", "{1654FB8A-E6C8-44A2-A0C2-DF6BB68A5F76}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_4(auto and type inference)", "Chapter4_4(auto and type inference)\Chapter4_4(auto and type inference).vcxproj", "{0646724F-1B55-4373-B93B-8FB2AE5EFAA6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_04(Auto and Type Inference)", "Chapter04_04(Auto and Type Inference)\Chapter04_04(Auto and Type Inference).vcxproj", "{0646724F-1B55-4373-B93B-8FB2AE5EFAA6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_5(type conversion)", "Chapter4_5(type conversion)\Chapter4_5(type conversion).vcxproj", "{2352A9A5-4A8F-4B5F-88B4-D5807DA0CBFA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_05(Type Conversion)", "Chapter04_05(Type Conversion)\Chapter04_05(Type Conversion).vcxproj", "{2352A9A5-4A8F-4B5F-88B4-D5807DA0CBFA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_6(string)", "Chapter4_6(string)\Chapter4_6(string).vcxproj", "{7627086F-403F-4067-88F8-8CB5423DAD92}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_06(string)", "Chapter04_06(string)\Chapter04_06(string).vcxproj", "{7627086F-403F-4067-88F8-8CB5423DAD92}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_7(enumerated types)", "Chapter4_7(enumerated types)\Chapter4_7(enumerated types).vcxproj", "{2C225E38-622F-4AAD-9F65-B47A812B0BC8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_07(Enumerated Types)", "Chapter04_07(Enumerated Types)\Chapter04_07(Enumerated Types).vcxproj", "{2C225E38-622F-4AAD-9F65-B47A812B0BC8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_8(scoped enumerations)", "Chapter4_8(scoped enumerations)\Chapter4_8(scoped enumerations).vcxproj", "{1271DCC7-93EF-4AFF-BD5C-47E8634F7C5C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_08(Scoped Enumerations)", "Chapter04_08(Scoped Enumerations)\Chapter04_08(Scoped Enumerations).vcxproj", "{1271DCC7-93EF-4AFF-BD5C-47E8634F7C5C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_9(type aliases)", "Chapter4_9(type aliases)\Chapter4_9(type aliases).vcxproj", "{3C291862-C6C2-408C-826D-A47FA11B5101}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_09(Type Aliases)", "Chapter04_09(Type Aliases)\Chapter04_09(Type Aliases).vcxproj", "{3C291862-C6C2-408C-826D-A47FA11B5101}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter4_10(struct)", "Chapter4_10(struct)\Chapter4_10(struct).vcxproj", "{FB24FD5A-477B-4DF8-BB59-D375C4652B8A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_10(struct)", "Chapter04_10(struct)\Chapter04_10(struct).vcxproj", "{FB24FD5A-477B-4DF8-BB59-D375C4652B8A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter_02", "Chapter_02", "{76A6F0EF-C39A-4747-9915-CFC265F3AE0E}"
 EndProject

@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1271DCC7-93EF-4AFF-BD5C-47E8634F7C5C}</ProjectGuid>
-    <RootNamespace>Chapter48scopedenumerations</RootNamespace>
+    <ProjectGuid>{0646724F-1B55-4373-B93B-8FB2AE5EFAA6}</ProjectGuid>
+    <RootNamespace>Chapter0404AutoandTypeInference</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

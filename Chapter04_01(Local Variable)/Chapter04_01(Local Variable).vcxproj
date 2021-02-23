@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1654FB8A-E6C8-44A2-A0C2-DF6BB68A5F76}</ProjectGuid>
-    <RootNamespace>Chapter43usingandambiguity</RootNamespace>
+    <ProjectGuid>{18AC0AA2-2917-47CD-A882-9D78320F97A1}</ProjectGuid>
+    <RootNamespace>Chapter0401LocalVariable</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

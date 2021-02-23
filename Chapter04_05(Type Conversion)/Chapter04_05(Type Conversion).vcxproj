@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3C291862-C6C2-408C-826D-A47FA11B5101}</ProjectGuid>
-    <RootNamespace>Chapter49typealiases</RootNamespace>
+    <ProjectGuid>{2352A9A5-4A8F-4B5F-88B4-D5807DA0CBFA}</ProjectGuid>
+    <RootNamespace>Chapter0405Type Conversion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

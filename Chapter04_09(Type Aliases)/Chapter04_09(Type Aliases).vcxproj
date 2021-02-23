@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{18AC0AA2-2917-47CD-A882-9D78320F97A1}</ProjectGuid>
-    <RootNamespace>Chapter41localvariable</RootNamespace>
+    <ProjectGuid>{3C291862-C6C2-408C-826D-A47FA11B5101}</ProjectGuid>
+    <RootNamespace>Chapter0409TypeAliases</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
