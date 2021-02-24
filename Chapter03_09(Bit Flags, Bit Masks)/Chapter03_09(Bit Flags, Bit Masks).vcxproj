@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F08D9015-C12B-4591-A858-9C2B8737EE81}</ProjectGuid>
-    <RootNamespace>Chapter34sizeofcommaconditionaloperator</RootNamespace>
+    <ProjectGuid>{23B4B831-8F59-457E-9CEB-E0A6F918F6FC}</ProjectGuid>
+    <RootNamespace>Chapter0309BitFlagsBitMasks</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

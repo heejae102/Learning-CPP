@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{82F3552A-0BE3-41D3-902D-180A13C0AC42}</ProjectGuid>
-    <RootNamespace>Chapter35relationaloperators</RootNamespace>
+    <ProjectGuid>{767A9AA3-6A3F-4AC3-B985-950761C04F38}</ProjectGuid>
+    <RootNamespace>Chapter0307BinaryNumbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

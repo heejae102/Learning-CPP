@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{0FF8665D-367C-4771-9BB1-285FEB0804ED}</ProjectGuid>
-    <RootNamespace>Chapter33incrementdecrementoperators</RootNamespace>
+    <ProjectGuid>{CF303E78-E414-4718-A56C-1270A4F36989}</ProjectGuid>
+    <RootNamespace>Chapter0301Operators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

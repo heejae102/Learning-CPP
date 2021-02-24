@@ -5,27 +5,27 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Learning_CPP", "Learning_CPP\Learning_CPP.vcxproj", "{A499F53F-9606-4010-8C43-12B4425ADAFE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_1(operators)", "Chapter3_1(operators)\Chapter3_1(operators).vcxproj", "{CF303E78-E414-4718-A56C-1270A4F36989}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_01(Operators)", "Chapter03_01(Operators)\Chapter03_01(Operators).vcxproj", "{CF303E78-E414-4718-A56C-1270A4F36989}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_2(arithmetic operators)", "Chapter3_2(arithmetic operators)\Chapter3_2(arithmetic operators).vcxproj", "{1A4AE7C2-6D8C-4307-9580-0B49D39A1279}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_02(Arithmetic Operators)", "Chapter03_02(Arithmetic Operators)\Chapter03_02(Arithmetic Operators).vcxproj", "{1A4AE7C2-6D8C-4307-9580-0B49D39A1279}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2_8(literal constants)", "Chapter2_8(literal constants)\Chapter2_8(literal constants).vcxproj", "{FA55DE1C-BE49-460C-B027-894A1893A8DC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2_9(symbolic constants)", "Chapter2_9(symbolic constants)\Chapter2_9(symbolic constants).vcxproj", "{286BAB28-CFDE-4486-8A8C-2F59BAE2C50F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_3(increment_decrement operators)", "Chapter3_3(increment_decrement operators)\Chapter3_3(increment_decrement operators).vcxproj", "{0FF8665D-367C-4771-9BB1-285FEB0804ED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_03(Increment-Decrement Operators)", "Chapter03_03(Increment-Decrement Operators)\Chapter03_03(Increment-Decrement Operators).vcxproj", "{0FF8665D-367C-4771-9BB1-285FEB0804ED}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_4(size of, comma, conditional operator)", "Chapter3_4(size of, comma, conditional operator)\Chapter3_4(size of, comma, conditional operator).vcxproj", "{F08D9015-C12B-4591-A858-9C2B8737EE81}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_04(Size of, Comma, Conditional Operator)", "Chapter03_04(Size of, Comma, Conditional Operator)\Chapter03_04(Size of, Comma, Conditional Operator).vcxproj", "{F08D9015-C12B-4591-A858-9C2B8737EE81}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_5(relational operators)", "Chapter3_5(relational operators)\Chapter3_5(relational operators).vcxproj", "{82F3552A-0BE3-41D3-902D-180A13C0AC42}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_05(Relational Operators)", "Chapter03_05(Relational Operators)\Chapter03_05(Relational Operators).vcxproj", "{82F3552A-0BE3-41D3-902D-180A13C0AC42}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_6(logical operators)", "Chapter3_6(logical operators)\Chapter3_6(logical operators).vcxproj", "{B63F64F8-5E6E-44AF-816B-E0BD4649297B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_06(Logical Operators)", "Chapter03_06(Logical Operators)\Chapter03_06(Logical Operators).vcxproj", "{B63F64F8-5E6E-44AF-816B-E0BD4649297B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_7(binary numbers)", "Chapter3_7(binary numbers)\Chapter3_7(binary numbers).vcxproj", "{767A9AA3-6A3F-4AC3-B985-950761C04F38}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_07(Binary Numbers)", "Chapter03_07(Binary Numbers)\Chapter03_07(Binary Numbers).vcxproj", "{767A9AA3-6A3F-4AC3-B985-950761C04F38}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_8(bitwise operators)", "Chapter3_8(bitwise operators)\Chapter3_8(bitwise operators).vcxproj", "{81F44E57-DCE5-4CF7-9FBF-BC4E6C3913E9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_08(Bitwise Operators)", "Chapter03_08(Bitwise Operators)\Chapter03_08(Bitwise Operators).vcxproj", "{81F44E57-DCE5-4CF7-9FBF-BC4E6C3913E9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3_9(bit flags, bit masks)", "Chapter3_9(bit flags, bit masks)\Chapter3_9(bit flags, bit masks).vcxproj", "{23B4B831-8F59-457E-9CEB-E0A6F918F6FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_09(Bit Flags, Bit Masks)", "Chapter03_09(Bit Flags, Bit Masks)\Chapter03_09(Bit Flags, Bit Masks).vcxproj", "{23B4B831-8F59-457E-9CEB-E0A6F918F6FC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter04_01(Local Variable)", "Chapter04_01(Local Variable)\Chapter04_01(Local Variable).vcxproj", "{18AC0AA2-2917-47CD-A882-9D78320F97A1}"
 EndProject
