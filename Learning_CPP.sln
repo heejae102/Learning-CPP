@@ -9,9 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_01(Operators)", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_02(Arithmetic Operators)", "Chapter03_02(Arithmetic Operators)\Chapter03_02(Arithmetic Operators).vcxproj", "{1A4AE7C2-6D8C-4307-9580-0B49D39A1279}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2_8(literal constants)", "Chapter2_8(literal constants)\Chapter2_8(literal constants).vcxproj", "{FA55DE1C-BE49-460C-B027-894A1893A8DC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter02_08(Literal Constants)", "Chapter02_08(Literal Constants)\Chapter02_08(Literal Constants).vcxproj", "{FA55DE1C-BE49-460C-B027-894A1893A8DC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2_9(symbolic constants)", "Chapter2_9(symbolic constants)\Chapter2_9(symbolic constants).vcxproj", "{286BAB28-CFDE-4486-8A8C-2F59BAE2C50F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter02_09(Symbolic Constants)", "Chapter02_09(Symbolic Constants)\Chapter02_09(Symbolic Constants).vcxproj", "{286BAB28-CFDE-4486-8A8C-2F59BAE2C50F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter03_03(Increment-Decrement Operators)", "Chapter03_03(Increment-Decrement Operators)\Chapter03_03(Increment-Decrement Operators).vcxproj", "{0FF8665D-367C-4771-9BB1-285FEB0804ED}"
 EndProject
